@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Helexius
+- 👀 I’m interested in learning some developing skills
+- 🌱 I’m currently learning how to developed a game.
